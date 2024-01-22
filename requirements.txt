@@ -1,0 +1,5 @@
+numpy==1.25.2
+Bio==1.5.6
+biopython==1.81
+rdkit==2022.9.4
+iFeatureOmegaCLI==1.0.2
